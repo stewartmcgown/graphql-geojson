@@ -1,6 +1,6 @@
 {
-  "name": "graphql-geojson",
-  "version": "1.0.0",
+  "name": "@stewartmcgown/graphql-geojson",
+  "version": "1.0.1",
   "description": "GraphQL schema object types for GeoJSON",
   "keywords": [
     "graphql",
@@ -18,5 +18,6 @@
   },
   "bugs": {
     "url": "https://github.com/ghengeveld/graphql-geojson/issues"
-  }
+  },
+  "types": "./index.d.ts"
 }
